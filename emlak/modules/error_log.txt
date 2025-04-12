@@ -1,0 +1,1 @@
+[11-Apr-2025 21:00:12 Asia/Riyadh] PHP Parse error:  Unclosed '{' on line 149 in /var/www/vhosts/turkiyeemlaksitesi.com.tr/izmiremlakbirligi.com.tr/modules/inc/header.php on line 224

@@ -1,0 +1,837 @@
+TX1={404 - Sayfa Bulunamadı.}
+TX2={Aradığınız sayfa silinmiş, değiştirilmiş veya hiç olmamış olabilir.<BR><BR>Lütfen Anasayfa'ya dönerek tekrar deneyin. }  
+TX3={Anasayfa} 
+TX4={<i class="ion-android-alert"></i> Lütfen e-posta ve gsm numarası giriniz.}    
+TX5={<i class="ion-android-alert"></i> Numaranız zaten kayıtlı bulunuyor.}    
+TX6={<i class="ion-android-alert"></i> Geçersiz Gsm Numarası.}     
+TX8={<i class="ion-android-alert"></i> Geçersiz E-posta Adresi} 
+TX9={<i class="ion-android-alert"></i> E-posta adresiniz zaten kayıtlı bulunuyor.}
+TX10={<i class="ion-android-alert"></i> E-Posta ve parola gereklidir.} 
+TX11={<i class="ion-android-alert"></i> Hesabınız Engellenmiştir.}   
+TX12={Giriş yapılıyor...} 
+TX13={<i class="ion-android-alert"></i> E-Posta veya parolanız hatalı.}
+TX14={<i class="ion-android-alert"></i> Lütfen "Adınız Soyadınız" alanını doğru ve eksiksiz giriniz.}
+TX15={<i class="ion-android-alert"></i> Lütfen geçerli bir e-posta giriniz.}
+TX16={<i class="ion-android-alert"></i> Bazı nedenlerden dolayı işlem yapmanız engellenmiştir.}
+TX17={<i class="ion-android-alert"></i> E-Posta adresiniz başka bir hesapta kayıtlı görünüyor.<br /><i>Eğer sorun yaşıyorsanız iletişime geçiniz.</i>}
+TX18={<i class="ion-android-alert"></i> Telefon Numaranız başka bir hesapta kayıtlı görünüyor.<br /><i>Eğer sorun yaşıyorsanız iletişime geçiniz.</i>}
+TX19={<i class="ion-android-alert"></i> Lütfen parola tekrarını boş bırakmayın.}
+TX20={<i class="ion-android-alert"></i> Lütfen parola tekrarını doğru yazınız.}
+TX21={Hesap bilgileri başarılı bir şekilde güncellendi.}
+TX22={<i class="ion-android-alert"></i> Lütfen zorunlu alanları doldurunuz.}
+TX23={<i class="ion-android-alert"></i> Hatalı bir google maps urlsi girdiniz!}
+TX24={<i class="ion-android-alert"></i> Geçersiz il girdiniz!}
+TX25={<i class="ion-android-alert"></i> Geçersiz ilçe girdiniz!}
+TX26={Tek seferde en fazla}
+TX27={adet resim ekleyebilirsiniz!}
+TX28={<i class="ion-android-alert"></i> Teknik bir problem oluştu, bizimle irtibat sağlayınız.}
+TX29={<i class="ion-android-alert"></i> Hatalı bir google maps urlsi girdiniz!}
+TX30={En fazla}
+TX31={adet resim ekleyebilirsiniz!}
+TX32={<i class="ion-android-alert"></i> Lütfen adınızı ve soyadınızı giriniz.}
+TX33={<i class="ion-android-alert"></i> Lütfen geçerli bir e-posta giriniz.}
+TX34={<i class="ion-android-alert"></i> Lütfen bir şifre belirleyin.}
+TX35={<i class="ion-android-alert"></i> Lütfen şifrenizi tekrar yazın.}
+TX36={<i class="ion-android-alert"></i> Lütfen GSM numaranızı giriniz.}
+TX37={<i class="ion-android-alert"></i> Lütfen hizmet sözleşmesini kabul ediniz!}
+TX38={<i class="ion-android-alert"></i> Girdiğiniz parolalar uyuşmuyor.}
+TX39={<i class="ion-android-alert"></i> Bazı nedenlerden dolayı işlem yapmanız engellenmiştir.}
+TX40={<i class="ion-android-alert"></i> E-Posta adresiniz veya gsm numaranız kayıtlı görünüyor. Lütfen giriş yapınız.<br /><i>Şifrenizi kayıtlı e-posta adresinize tekrar gönderdik.</i>}
+TX41={<i class="ion-android-alert"></i> Az önce bildirim yapıldı. 15 dk. kadar bekleyin.}
+TX42={<i class="ion-android-alert"></i> Kayıtlı e-posta adresinizi girin.}
+TX43={<i class="ion-android-alert"></i> Geçersiz E-Posta formatı}
+TX44={<i class="ion-android-done"></i> Giriş Bilgileriniz E-posta Adresinize Gönderildi.}
+TX45={<i class="ion-android-alert"></i> Mail gönderilemedi!}
+TX46={<i class="ion-android-alert"></i> Bu e-posta sistemimizde kayıtlı değildir.}
+TX47={Adres}
+TX48={Telefon}
+TX49={GSM}
+TX50={E-Posta}
+TX51={Gelişmiş Arama}
+TX52={Kelime veya İlan No}
+TX5311={Emlak Durumu}
+TX5411={Emlak Tipi}
+TX53={Emlak Durumu}
+TX54={Emlak Tipi}
+TX55={İl}
+TX56={İlçe}
+TX57={Konut Tipi}
+TX58={Konut Şekli}
+TX59={Bulunduğu Kat}
+TX60={Min. Fiyat}
+TX61={Max. Fiyat}
+TX62={Min. M²}
+TX63={Max. M²}
+TX64={Min. Kat}
+TX65={Max. Kat}
+TX66={Yapının Durumu}
+TX67={İlan Tarihi}
+TX68={Bugünün İlanları}
+TX69={Son 3 gün}
+TX70={Son 1 hafta}
+TX71={Son 2 hafta}
+TX72={Son 3 hafta}
+TX73={Son 1 ay}
+TX74={Son 2 ay}
+TX75={Hemen Bul}
+TX76={Telefon:}
+TX77={Faks:}
+TX78={E-Posta:}
+TX79={Adres:}
+TX80={Site içi Bağlantılar}
+TX81={E-Bülten}
+TX82={Haberler, Duyurular ve Kampanyalarımızdan e-mail ve SMS ile haberdar olmak isterseniz aşağıdaki ilgili alanlara e-posta adresinizi ve Gsm numaranızı ekleyerek kaydolabilirsiniz.}
+TX83={Gsm Numaranız}
+TX84={E-Posta Adresiniz}
+TX85={Kaydet}
+TX86={Kaydınız başarı ile yapılmıştır.}
+TX87={Artık güncel haber, duyuru ve kampanyalarımızdan anında haberdar olabilirsiniz.}
+TX88={Copyright © 2022. Türkiye Emlak Sitesi Her Hakkı Saklıdır.}
+TX89={Ücretsiz İlan Ver!}
+TX90={Üye Paneli}
+TX91={İletişim}
+
+TX94={Durumu}
+TX95={Emlak Tipi}
+TX96={İl}
+TX97={İlçe}
+TX98={Hemen Ara}
+TX99={Emlak Almak veya Satmak için, Bizi Arayabilir,}
+TX100={Talebinizi Bırakabilirsiniz!}
+TX101={Hemen<br>İlan Başvurunuzu<br>Yapın.}
+TX102={Danışmanlarımız<br>Başvurunuzu<br>İncelesin.}
+TX103={İlanınız<br>Tüm Ağımızda<br>Ücretsiz Yayınlansın!}
+TX104={Haberler}
+TX105={Duyurular}
+TX106={Sevdiklerinizle Paylaşın}
+TX107={Hoş Geldiniz,}
+TX108={Yeni İlan Yayınla}
+TX109={Hesap Bilgilerim}
+TX110={Aktif İlanlarım}
+TX111={Pasif İlanlarım}
+TX112={Güvenli Çıkış}
+TX113={Üye Ol veya Giriş Yap}
+TX114={Danışman Girişi}
+TX115={Hemen ücretsiz ilan vermek için üye olun veya giriş yapın.}
+TX116={E-Posta}
+TX117={Parola}
+TX118={Beni Hatırla}
+TX119={» Parolamı Hatırlat}
+TX120={Giriş Yap}
+TX121={Ücretsiz ilan vermek için hemen giriş yapın<br> veya hesap oluşturun.}
+TX122={Parolamı Hatırlat}
+TX123={» Giriş'e Dön}
+TX124={Hatırlat!}
+TX125={Hesap Oluştur}
+TX126={Adınız Soyadınız}
+TX127={E-Posta Adresiniz}
+TX128={Gsm No}
+TX129={Parola Belirleyin}
+TX130={Parolayı Tekrar Yazın}
+TX131={<strong>Hizmet Sözleşmesi ve Üye Kaydı</strong>'nı Okudum ve Kabul Ediyorum.}
+TX131HF={hizmet-sozlesmesi-ve-uye-kaydi.html}
+TX132={Hesap Oluştur}
+TX133={Üye Kaydınız Başarıyla Gerçekleşmiştir.}
+TX134={Üye bilgileriniz ayrıca e-posta adresinize gönderilmiştir.<br><br>Lütfen junk/span/gereksiz klasörlerinizi kontrol etmeyi ihmal etmeyiniz.}
+TX135={Haberler}
+TX136={Anasayfa}
+TX137={» Detaylar}
+TX138={Henüz içerik eklenmedi.}
+TX139={İlan Detay}
+TX140={İlan No}
+TX141={İlan Tarihi  }
+TX142={Konut Tipi}
+TX143={Net M² }
+TX1431={Brüt M² }
+TX144={Oda Sayısı}
+TX145={Bina Yaşı }
+TX1451={Yetki Belgesi No.}
+TX146={Bulunduğu Kat}
+TX147={Kat Sayısı }
+TX148={Isıtma}
+TX149={Banyo Sayısı}
+TX150={Eşyalı mı?}
+TX151={Kullanım Durumu}
+TX152={Site İçerisinde?}
+TX153={Aidat}
+TX154={İlan Sahibi;}
+TX155={Danışmanınız}
+TX156={(Gsm)}
+TX157={Telefon}
+TX158={E-Posta}
+TX159={İletişim}
+TX160={Yukarıda belirtilen iletişim bilgilerinden ilan ile ilgili irtibat sağlayabilirsiniz.}
+TX161={Açıklamalar}
+TX162={Özellikler}
+TX163={Cephe}
+TX164={İç Özellikler}
+TX165={Dış Özellikler}
+TX166={Konum Haritası}
+TX167={Evet}
+TX168={Hayır}
+TX169={İlanlar}
+TX170={İlanları}
+TX171={Gelişmiş Sıralama}
+TX172={Fiyata Göre, Artan}
+TX173={Fiyata Göre, Azalan}
+TX174={En Son Eklenen, En Başta}
+TX175={aramanızda }
+TX176={adet ilan bulundu.}
+TX177={İlan Bilgileri}
+TX178={Fiyat}
+TX179={Net M²}
+TX180={İlan Tarihi}
+TX181={İl/İlçe}
+TX182={Fiyat:}
+TX183={Net M²:}
+TX184={İlan Tarihi:}
+TX185={İl/İlçe:}
+TX186={Belirtilmedi}
+TX187={<strong>Malesef uygun bir sonuç bulamadık.</strong><br><br>Aramamanızı farklı şekilde filtreleyerek tekrar deneyebilirsiniz.}
+TX188={İletişim}
+TX189={Bize Ulaşın}
+TX190={İletişim Bilgilerimiz}
+TX191={Telefon}
+TX192={Faks}
+TX193={Gsm}
+TX194={Adres}
+TX195={Şubelerimiz}
+TX196={Mesajınız mı var?}
+TX197={Adınız Soyadınız}
+TX198={E-Posta Adresiniz}
+TX199={Gsm Numaranız}
+TX200={Mesajınız}
+TX201={Lütfen robot olmadığınızı doğrulayın;}
+TX202={Gönder}
+TX203={Mesajınız Başarıyla Gönderildi.}
+TX204={En kısa sürede tarafınıza dönüş yapacağız.}
+TX205={Vitrin İlanları - Listele}
+TX206={» Tümü}
+TX207={» Detaylar}
+TX208={Duyurular}
+TX209={den fazla ilan...}
+TX210={Projelerimiz}
+TX211={Emlak Danışmanınız;}
+TX212={(Cep)}
+TX213={Telefon}
+TX214={E-Posta}
+TX215={İletişim}
+TX216={İlanımız ile ilgileniyorsanız, yukarıda verilen iletişim bilgilerinden emlak danışmanınıza ulaşabilirsiniz.}
+TX217={Açıklamalar}
+TX218={Konum Haritası}
+TX219={Projeler}
+TX220={Henüz proje eklenmedi.}
+TX221={Duyurular}
+TX222={Haberler}
+TX223={Hizmetler}
+TX224={Emlak Ofisleri}
+TX225={Emlak Ofisi Seçiniz}
+TX226={Lütfen Seçiniz}
+TX227={Üye Paneli}
+TX228={Duyurular}
+TX229={Henüz içerik eklenmedi.}
+TX230={Aktif İlanlarım}
+TX231={Aktif ve yayında olan ilanlarınızı görüntüleyin.}
+TX232={Foto}
+TX233={İlan Başlığı}
+TX234={Durumu}
+TX235={Kontroller}
+TX236={İlan Tarihi:}
+TX237={Görüntülenme:}
+TX238={Onay Bekliyor}
+TX239={Yayında}
+TX240={Reddedildi}
+TX241={Pasif}
+TX242={<strong>Henüz aktif ilanınız bulunmuyor.</strong><br><br>Hemen ilan ekleyin. Kısa süre içerisinde alıcı bulun.}
+TX243={Üye Paneli}
+TX244={Üye hesabınızla hemen ilan verebilir ve üyelik detaylarınızı inceleyebilirsiniz.}
+TX245={Hesap Bilgilerim}
+TX246={Adınız Soyadınız}
+TX247={E-Posta Adresiniz}
+TX248={Gsm Numaranız}
+TX249={Parola Belirleyin}
+TX250={Parolayı Tekrar Yazın}
+TX251={Kampanya, haber ve duyurulardan <strong>E-Posta</strong> ile bilgilendirilmek istiyorum.}
+TX252={Kampanya, haber ve duyurulardan <strong>SMS</strong> ile bilgilendirilmek istiyorum.}
+TX253={Güncelle}
+TX254={Değiştirmeyecekseniz boş bırakınız.}
+TX255={İlan Düzenle}
+TX256={Hemen şimdi ücretsiz ilanınızı ekleyin. Tüm ağımızda yayınlansın!}
+TX257={Güncellenen ilanlar tekrar onay sürecinden geçmektedir. Merak etmeyin, çok kısa sürede onaylanır.}
+TX258={İlan Başlığı}
+TX259={Fiyatı}
+TX260={İlan No}
+TX261={Emlak Durumu}
+TX262={Emlak Tipi}
+TX263={İl}
+TX264={Seçiniz}
+TX265={İlçe}
+TX266={Mahalle & Köy}
+TX267={Konut Tipi}
+TX268={Konut Şekli}
+TX269={Bulunduğu Kat}
+TX270={Net Metrekare}
+TX2701={Brüt Metrekare}
+TX271={Yapının Durumu}
+TX272={Oda Sayısı}
+TX273={Bina Yaşı}
+TX2731={Yetki Belgesi No.}
+TX27320={<br/><strong><font color="red">İLAN PAYLAŞIMI 01</strong></font>}
+TX27321={<br/><strong><font color="red">İLAN PAYLAŞIMI 02</strong></font>}
+TX27322={<br/><br/><br/><strong><font color="red">KAPALI PORTFÖY 01</strong></font>}
+TX27323={<br/><br/><strong><font color="red">KAPALI PORTFÖY 02</strong></font>}
+TX27324={<br/><br/><strong><font color="red">KAPALI PORTFÖY 02</strong></font>}
+TX27325={<br/><br/><strong><font color="red"> EMLAK TALEBİ </strong></font>}
+TX27301={<br/><br/><strong><font color="red"> GRUP PAYLAŞIMI 01 </strong></font>}
+TX27302={<br/><br/><strong><font color="red"> GRUP PAYLAŞIMI 02 </strong></font>}
+TX27303={<br/><br/><strong><br/><font color="red"> GRUP PAYLAŞIMI 03 </strong></font>}
+TX27304={<br/><strong><font color="red"> GRUP PAYLAŞIMI 04 </strong></font>}
+TX27305={<br/><strong><font color="red"> GRUP PAYLAŞIMI 05 </strong></font>}
+TX27306={<br/><strong><font color="red"> GRUP PAYLAŞIMI 06 </strong></font>}
+TX27307={<br/><strong><font color="red"> GRUP PAYLAŞIMI 07 </strong></font>}
+TX27308={<br/><strong><font color="red"> GRUP PAYLAŞIMI 08 </strong></font>}
+TX27309={<br/><strong><font color="red"> GRUP PAYLAŞIMI 09 </strong></font>}
+TX2737={<br/><strong>İZMİR EMLAK SİTESİ</strong>}
+TX2738={<br/><strong>İSTANBUL EMLAK SİTESİ</strong>}
+TX2739={<br/><strong>ANKARA EMLAK SİTESİ</strong>}
+TX27340={<br/><strong><font color="red"> İLAN PAYLAŞIMI 01 </strong></font>}
+TX27341={<br/><strong><font color="red"> İLAN PAYLAŞIMI 02 </strong></font>}
+TX27342={<br/><br/><strong><font color="red"> KAPALI PORTFÖY 01 </strong></font>}
+TX27343={<br/><br/><strong><font color="red"> KAPALI PORTFÖY 02 </strong></font>}
+TX27344={<br/><br/><strong><font color="red"> KAPALI PORTFÖY 02 </strong></font>}
+TX27345={<br/><strong><font color="red"> EMLAK TALEBİ </strong></font>}
+TX2734={<br/><strong>İZMİR EMLAK SİTESİ</strong>}
+TX2735={<br/><strong>İSTANBUL EMLAK SİTESİ</strong>}
+TX2736={<br/><strong>ANKARA EMLAK SİTESİ</strong>}
+TX274={Bina Kat Sayısı}
+TX275={Isıtma}
+TX276={Banyo Sayısı}
+TX277={Eşyalı mı?}
+TX278={Kullanım Durumu}
+TX279={Site İçerisinde mi?}
+TX280={Aidat}
+TX281={Fotoğraf Ekle}
+TX282={Resimleri Seç}
+TX283={Yüklenenler}
+TX284={Özellikleri Seçin}
+TX285={Cephe}
+TX286={İç Özellikler}
+TX287={Dış Özellikler}
+TX288={Açıklamalar}
+TX289={Konum Haritası Ekle}
+TX290={Harita konumu otomatik olarak belirlediğiniz il/ilçe/mahalle'ye göre işaretlenmektedir. Dilerseniz cadde veya sokak ekleyerek de daraltabilirsiniz. Hassas işaretleme için imleci sürükleyip bırakınız.}
+TX291={Güncelle}
+TX292={En fazla}
+TX293={adet resim ekleyebilirsiniz!}
+TX294={Fotoğraflar Yükleniyor}
+TX295={İlanınız Başarıyla Güncellendi.}
+TX296={İlanınız kısa süre içerisinde kontrol edilip tekrar yayınlanacaktır.}
+TX297={Yeni İlan Yayınla}
+TX298={Hemen şimdi ücretsiz ilanınızı ekleyin. Tüm ağımızda yayınlansın!}
+TX299={Aşama 2 / Fotoğraf Yükle}
+TX300={İlanınız Başarıyla Eklendi.}
+TX301={İlanınız kısa süre içerisinde kontrol edilip yayınlanacaktır.}
+TX302={Pasif İlanlarım}
+TX303={Pasif veya reddedilen ilanlarınızı görüntüleyin.}
+TX304={Pasif İlanlarım}
+TX305={Foto}
+TX306={İlan Başlığı}
+TX307={Durumu}
+TX308={Kontroller}
+TX309={İlan Tarihi: }
+TX310={Onay Bekliyor}
+TX311={Yayında}
+TX312={Reddedildi}
+TX313={Pasif}
+TX314={<strong>Henüz pasif ilanınız bulunmuyor.</strong><br><br>Hemen ilan ekleyin. Kısa süre içerisinde alıcı bulun.}
+TX315={Görüntülenme:}
+TX316={Sıcak Fırsatlar - Hepsini Gör}
+TX317={Min Fiyat:}
+TX318={Max Fiyat:}
+TX319={Min Metrekare}
+TX320={Max Metrekare}
+TX321={Min Bina Kat Sayısı:}
+TX322={Max Bina Kat Sayısı:}
+TX323={Altyapı Özellikleri}
+TX324={Konum Özellikleri}
+TX325={Genel Özellikler}
+TX326={Manzara Özellikleri}
+TX327={Net M² Fiyatı}
+TX328={Ada No}
+TX329={Parsel No}
+TX330={Pafta No}
+TX331={Kaks (Emsal)}
+TX332={Gabari}
+TX333={Tapu Durumu}
+TX334={Kat Karşılığı}
+TX335={Krediye Uygun}
+TX336={Takas}
+TX337={Yeni İlan Yayınla}
+TX338={İlana ait Fotoğraflar Yükleyin;}
+TX339={<strong style="color:red;">İlan Fotoğraflarının Uzantısı .jpeg Olmalıdır.</strong><br><strong style="color:red;">İlan fotoğraflarını 600x800 pixel veya 900x1200 pixel olarak ve Yatay çekerseniz, Fotoğraflar sitenizde daha güzel gözükür</strong><br>Sistem, yüklenen fotoğrafları filtreden geçirerek otomatik olarak tekrar boyutlandırmaktadır.<br>Yükleme yaptıktan sonra kapak fotoğrafını değiştirebilir ve Fotoğrafların yerlerini, kaydırarak sıralayabilirsiniz.}
+TX340={Kapak Görseli Seçin;}
+TX341={İlanınız için, yüklediğiniz fotoğraflardan bir kapak görseli seçmeyi unutmayın. Fotoğrafların Yerlerini kaydırarak sıralayabilirsiniz.}
+TX342={Kapak Seç:}
+TX343={Sıra:}
+TX344={Devam Et}
+TX345={İlan Detayları}
+TX346={Fotoğraflar}
+TX347={Fotoğraflar Başarıyla Güncellendi.}
+TX348={Ülke}
+TX349={Yok}
+TX350={Üyelik Türü;}
+TX351={Bireysel Üyeler <small>( İlan Bırakamaz</small>)}
+TX352={Kurumsal Firma veya Danışman Üye<br><small>(Bir Firmada Danışman iseniz, Üye olurken Firma yerine Çalıştığınız Firmanın adını yazınız.</small> )}
+TX353={Lütfen Üyelik Türü Seçiniz.}
+TX354={Yüklediğiniz resim en fazla 2MB olabilir.}
+TX355={Geçersiz bir dosya yüklediniz!}
+TX356={Yönetici Girişi}
+TX3561={Danışman Girişi}
+TX3562={Danışman Girişi}
+TX357={Danışman}
+TX358={İlan yayınlamak ve tüm hizmetlerimizden faydalanmak için hemen hesap oluşturun.<br><br><strong>Zaten bir hesabınız var ise;}
+TX359={Üye Girişi Yapın}
+TX360={DANIŞMAN E-Posta ve Şifreniz ile Giriş Yapınız.}
+TX361={Hesap Oluşturun}
+TX362={Üyelik Tipi}
+TX363={Profil Fotoğrafı}
+TX364={T.C.K.N}
+TX365={Adres}
+TX366={Bağlı Olduğunuz Firmayı<br/>veya Firmanızın Adını Yazın}
+TX367={Vergi No}
+TX368={Vergi Dairesi}
+TX369={Lütfen T.C.K.N Giriniz.}
+TX370={Geçersiz bir T.C.K.N Girdiniz.}
+TX371={Lütfen adres bilginizi giriniz.}
+TX372={Lütfen tüm alanları eksiksiz doldurunuz.}
+TX373={Mobil Onay Kodu Gönderilecek.}
+TX374={Lütfen Aktivasyon Kodu Giriniz.}
+TX375={Çok sayıda deneme yaptınız. Lütfen bizimle iletişime geçiniz.}
+TX376={Doğrulama kodu hatalı veya geçersizdir.}
+TX377={Çok sayıda deneme yaptınız. Lütfen bizimle irtibat sağlayınız.}
+TX378={Mobil Onay}
+TX379={Lütfen <strong id="telout">(?)</strong> numaralı hattınıza gönderilen doğrulama kodunu, aşağıdaki alana giriniz.}﻿
+TX380={Hesabımı Doğrula}﻿
+TX381={Hesabımı oluştururken sorun yaşıyorum.}﻿
+TX382={Geri Dön}﻿
+TX383={Doğrulama Kodu}
+TX384={Üye}
+TX385={<strong>Malesef üyeye ait ilan bulunamadı. </strong>}
+TX386={(Profil/İlan Detay) alanlarında gsm numaramı gizle}
+TX387={(Profil/İlan Detay) alanlarında sabit telefon numaramı gizle}
+TX388={(Profil/İlan Detay) alanlarında e-posta adresimi gizle}
+TX389={(Profil/İlan Detay) alanlarında fotoğrafımı gizle}
+TX390={Sabit Telefon Numaranız}
+TX391={Tüm İlanları}
+TX392={Mesaj Gönder}
+TX393={Profilim}
+TX394={Mesajlarım}
+TX395={Yaz işte buraya bişiyler...}
+TX396={Profil Sayfanız}
+TX397={<h4 style="text-align:center;margin-top:60px;"><strong>Lütfen sol taraftan seçim yapınız.</strong><br><br>Anlık görüşme için sol taraftan seçim yapınız.<br><i style="margin-top:30px;font-size:65px;" class="fa fa-arrow-left" aria-hidden="true"></i></h4>}
+TX398={Profil Ayarları}
+TX399={Bildirim Ayarları}
+TX400={Mesajlarda Ara}
+TX401={Profilini Göster}
+TX402={Engeli Kaldır}
+TX403={Engelle}
+TX404={Görüşmeyi Sil}
+TX405={Gönder}
+TX406={Görüşmeniz kısıtlanmıştır.}
+TX407={Görüşmeyi gerçekten silmek istiyor musunuz?}
+TX408={Bu işlemi gerçekten uygulamak istiyor musunuz?}
+TX409={Lütfen Üye Seçiniz!}
+TX410={Maalesef mesaj gönderemezsiniz!}
+TX411={Okundu}
+TX412={Merhaba,
+
+Mesajınızı buraya yazabilirsiniz.
+
+
+İlan Linki: [ilan_linki] }
+TX413={Mesaj Gönder}
+TX414={Mesaj gönderebilmek için üye girişi yapmanız gerekiyor.}
+TX415={ya da}
+TX416={İlan Detayları}
+TX417={Video}
+TX418={Konumu}
+TX419={Sokak Görünümü}
+TX420={<span style="    margin-top: 60px;    margin-bottom: 60px;    float: left;    width: 100%;">Bu ilana ait video yüklenmemiştir.</span>}
+TX421={Harita bulunmuyor.}
+TX422={Ben}
+TX423={Mesajınız başarıyla iletildi.}
+TX424={Profil Sayfası}
+TX425={Hakkında}
+TX426={Anlık Görüşme}
+TX427={Görüşme yapmak istediğiniz kişiyi listeden seçerek anlık yazışabilir ve mesajlaşabilirsiniz. }
+TX428={Hatalı İlan Bildir!}
+TX429={Hakkınızda bir şeyler yazın...}
+TX430={Profile Dön}
+TX431={Favorilerimden Çıkar}
+TX432={<strong>Favorilerime Ekle</strong>}
+TX433={<strong>Yazdır<strong>}
+TX434={Bu işlem için üye girişi yapmanız gerekmektedir.}
+TX435={Bu ilan için daha önce "hatalı ilan bildirimi" gönderdiniz.}
+TX436={Favorilerim}
+TX438={Favoriye aldığınız ilanların listesi.}
+TX440={tarihinde eklediniz.}
+TX441={<strong>Henüz favori ilanınız bulunmuyor.</strong><br><br>Herhangi bir ilanı izlemeye almak ve takip etmek için "Favori" olarak işaretleyebilirsiniz.}
+TX442={Video Yükle}
+TX443={Bu Aşamayı Atla}
+TX444={<strong style="color:red;">VİDEO larınızı 20 MB yi Geçmeyecek şekilde,  .MP4 uzantılı olarak yükleyebilirsiniz.</strong>}
+TX445={Favorilerden Çıkar}
+TX446={Hesabım}
+TX447={Hesap bilgileriniz, ayarlarınız ve tanımlamalarınız.}
+TX448={Hata ile ilgili bir şeyler yaz.}
+TX449={<center><strong>Hatalı ilan bildiriminiz alınmıştır.<br><br>Teşekkür ederiz.</strong></center>}
+TX450={Bir şeyler yazın...}
+TX452={İlanın hatalı olduğunu düşünüyorsanız, lütfen detaylı olarak bilgi veriniz.}
+TX453={Video Başarıyla Güncellendi.}
+TX454={Lütfen video dosyası seçiniz.}
+TX455={Yükleyeceğiniz video boyutu max 20MB olmalıdır.}
+TX456={Yükleyeceğiniz dosya geçersiz bir format içeriyor.}
+TX457={<strong style="color:green;">VİDEO YÜKLEMEYECEKSENİZ, DOĞRUDAN '' BU AŞAMAYI ATLA '' ya Tıklayınız.</strong>}
+TX4572={<strong style="color:red;">VİDEO larınızı 20 MB yi Geçmeyecek şekilde,  .MP4 uzantılı olarak yükleyebilirsiniz.</strong>}
+TX458={Video}
+TX459={<h4 style="text-align: center;   ">Bu ilan <strong>[hit]</strong> defa görüntülendi.</h4>}
+TX460={Kimden}
+TX461={Döviz}
+TX462={Alış}
+TX463={Satış}
+TX464={USD (Amerikan Doları)}
+TX465={EUR (EURO)}
+TX466={GBP (İngiliz Sterlini)}
+TX467={CHF (İsviçre Frangı)}
+TX468={Lütfen bir değer giriniz.}
+TX469={Lütfen rakam dışında bir değer girmeyiniz!}
+TX470={Kredi Hesapla}
+TX471={Kredi Tutarı (TL)}
+TX472={Kredi Vadesi (Ay)}
+TX473={Faiz Oranı}
+TX474={Hesapla}
+TX475={Benzer İlanlar}
+TX476={Mağaza Paketleri}
+TX477={Danışmanlar - Listele}
+TX478={Özel İlanlar - Listele}
+TX479={Öne Çıkan İlanlar - Listele}
+TX480={Emlak Talep Formu}
+TX481={Talebiniz}
+TX482={Talebiniz ile ilgili detaylar}
+TX483={Talep Oluştur}
+TX484={İlan}
+TX485={Danışmanlarım}
+TX486={Danışmanlarınızı yönetin.}
+TX487={Foto}
+TX488={Adı Soyadı}
+TX489={Oluşturulma Tarihi}
+TX490={Pasif}
+TX491={Aktif}
+TX492={<strong>Henüz eklemiş olduğunuz danışman bulunmuyor.</strong> }
+TX493={Yeni Ekle}
+TX494={Yeni Danışman Ekle}
+TX495={Yeni danışman ekleyin.}
+TX496={Danışman Oluştur}
+TX497={Danışmanınız Başarıyla Eklendi.}
+TX498={Danışman Sil}
+TX499={Danışmana ait ilanlarda silinsin mi?}
+TX500={Evet|Hayır|İptal}
+TX501={Danışman Düzenle}
+TX502={Danışmanınızı Düzenleyin.}
+TX503={Üyelik Bilgileri}
+TX504={Aktif İlanları}
+TX505={Danışman Güncelle}
+TX506={<strong>Henüz eklenmiş ilanınız bulunmuyor.</strong><br><br>Hemen ilan ekleyin. Kısa süre içerisinde alıcı bulun.}
+TX507={Pasif İlanları}
+TX508={Kredi Tutarı}
+TX509={Vade (Ay)}
+TX510={Faiz Oranı}
+TX511={Aylık Taksit}
+TX512={Toplam Borç}
+TX513={Ödeme Planı}
+TX514={Kalan Kredi Borcu}
+TX515={Geri Dön}
+TX516={Kendim Gireceğim}
+TX517={İlanı Dopingle!}
+TX518={İLANINIZIN ANA SAYFADA GÖZÜKMESİNİ İSTERSENİZ,<br>Aşağıda belirtilen doping seçeneklerinden istediklerinizi İŞARETLEYİNİZ. <br/>}
+TX5181={İLANINIZIN ANA SAYFADA GÖZÜKMESİNİ İSTERSENİZ, <br>Aşağıda belirtilen doping seçeneklerinden istediklerinizi SATIN ALABİLİRSİNİZ. <br/>Doping Satın Almak İstemezseniz Hiç Bir şeyi İşaretlemeden Bu Aşamayı Atla yı Seçiniz.}
+Doping Satın Almak İstemezseniz Hiç Bir şeyi İşaretlemeden Bu Aşamayı Atla yı Seçiniz.}
+TX519={Doping Seçenekleri – Anasayfa}
+TX520={Gün}
+TX521={Ay}
+TX522={Yıl}
+TX523={Toplam Ödenecek Tutar}
+TX524={İlanımı Dopingle}
+TX525={Lütfen bir seçim yapınız!}
+TX526={Kullanılıyor.}
+TX527={İlan Bilgileri}
+TX528={Fotoğraf Yükle}
+TX529={Kapak Görseli}
+TX530={Video Yükle}
+TX531={İlanı Dopingle!}
+TX532={İşlem Tamam}
+TX533={Onay Bekleniyor.}
+TX534={Dopinglerim}
+TX535={Sepetiniz}
+TX536={Tutar}
+TX537={Ödeme Yöntemi Seçin;}
+TX538={HESABA HAVALE}
+TX539={Kredi Kartı}
+TX540={Ödeme Yap}
+TX541={Geri Dön}
+TX542={Lütfen Ödeme Yöntemi Seçiniz.}
+TX543={Ödeme Yapın}
+TX544={Ödemeyi Daha Sonra Yapacağım}
+TX545={Kredi kartınız ile <strong style="color:green;">"Güvenli Ödeme"</strong> yapabilmek için lütfen <strong>tamam</strong> butonuna tıklayınız. Sonrasında PAYPAL'a yönlendirileceksiniz.}
+TX546={SİPARİŞİ TAMAMLA}
+TX547={Ödeme için Paypal'a Yönlendiriliyorsunuz.}
+TX548={Dopingler}
+TX549={Ödeme Sonucu}
+TX550={İşleminiz Başarıyla Gerçekleşmiştir.}
+TX551={Ödeme için teşekkür ederiz.}
+TX552={Yönlendiriliyorsunuz...}
+TX553={İşlem Başarısız}
+TX554={Ödeme iptal edildi veya Ödeme işlemi gerçekleşemedi.}
+TX555={Ödeme için teşekkür ederiz.}
+TX556={Dopinglerim}
+TX557={Doping}
+TX558={Tutar}
+TX559={Durumu}
+TX560={Onay Bekliyor.}
+TX561={Aktif}
+TX562={Sona Erdi.}
+TX563={Süresi Bugün Bitiyor}
+TX564={Gün Kaldı.}
+TX565={İptal Edildi}
+TX566={İşlem Tarihi}
+TX567={Toplam Ödeme}
+TX568={Ödeme Yöntemi}
+TX569={<strong>Henüz dopinginiz bulunmuyor.</strong><br><br>İlan ekleme ve düzenleme aşamalarında<br>ilanlarınızı dopingleyip daha fazla kişiye erişmesini sağlayabilirsiniz.}
+TX570={Mağaza Paketleri}
+TX571={Sizde hemen kurumsal mağaza(dükkan) paketlerimize geçin, avantajlı hizmetlerimizden yararlanın.}
+TX572={Mağaza Paketi Satın Al}
+TX573={Siparişiniz Başarıyla Alınmıştır.}
+TX574={Ödemeniz kontrol edildikten sonra işleminiz sağlanacaktır.}
+TX575={Mağaza Paketim}
+TX576={Mağaza Paketim}
+TX577={Paket Detayları}
+TX578={Periyod}
+TX579={Durumu}
+TX580={İlan Ekleme Limiti (Aylık)}
+TX581={Adet}
+TX582={Adet Kaldı.}
+TX583={(Tek Sefer)}
+TX584={Kullanılmamış.}
+TX585={Süresi Doldu.}
+TX586={Bugün son gün.}
+TX587={İlan Başına Resim}
+TX588={İlan Yayın Süresi}
+TX589={Özel Firma Profil Sayfası}
+TX590={İlanlarda Firma Logosu ve İletişim}
+TX591={İlanlara Danışman Atama}
+TX592={<strong>Henüz paketiniz bulunmuyor.</strong>}
+TX593={Kurumsal Mağaza Paketleri}
+TX594={İlan Ekleme}
+TX595={Adet (Aylık)}
+TX596={Ay içerisinde [aylik_ilan_limit] ilan yayımlayabilirsiniz.}
+TX597={Her ilana [ilan_resim_limit] resim yükleyebilirsiniz.}
+TX598={İlan Yayın Süresi}
+TX599={İlanınız maks. [ilan_yayin|sure|periyod] boyunca yayında kalır.}
+TX600={Danışman}
+TX601={Firmanıza ait [danisman_limit] adet danışman ekleyebilirsiniz. Eklediğiniz danışman, mağaza(dükkan) paketi kapsamında ilan ekleme ve yönetme yapabilecektir.}
+TX602={Size özel firma ve danışman profil sayfanız bulunacaktır.}
+TX603={İlanlarınızda firma logonuzu veya danışma fotoğrafınızı tanımlayabilir ve iletişim bilgilerinizi yayınlayabilirsiniz.}
+TX604={İlanlarınıza danışmanınızı atayabilirsiniz.}
+TX605={Anasayfada Danışman Gösterim}
+TX606={Web sitemizin anasayfasında öne çıkan danışmanlarda çıkması. Mağaza paketinize tek seferlik tanımlanmaktadır.}
+TX607={Satın Al} 
+TX608={Üyelik hesabınız bu işlem için uygun değildir.}
+TX609={Danışman Bilgileri}
+TX610={Lütfen periyod seçiniz.}
+TX611={<center>
+<h1 style="font-size:70px;"><i class="fa fa-ban" aria-hidden="true"></i></h1>
+<h4><strong>İlan oluşturma limitiniz dolmuştur.</strong></h4>
+<h5>Daha fazla ilan ekleyebilmek ve diğer tüm avantajlardan faydalanmak için <a target="_blank" href="uyelik-paketleri"><strong>tıklayınız.</strong></a></h5>
+</center>}
+TX612={Hesabınıza tanımlı maksimum fotoğraf ekleme limitini aştığınız için [resim_limit] adete kadar olan fotoğraflar yüklenmiştir. Mevcut hesabınız ile sadece <b>[resim_limit] adet</b> fotoğraf yükleyebilirsiniz. Daha fazla fotoğraf yükleyebilmek için <a href="uyelik-paketleri" target="_blank"><b>tıklayınız.</b></a>}
+TX613={Resimli İlanlar}
+TX614={Videolu İlanlar}
+TX615={Üyelik Bilgileri}
+TX616={Adres ve Konum Bilgileri}
+TX617={Bildirim Ayarları}
+TX618={Profil ve Bildirim Ayarları}
+TX619={Firma Logonuz}
+TX620={Portföy içi Arama}
+TX621={<center>
+<h1 style="font-size:80px;"><i class="fa fa-ban" aria-hidden="true"></i></h1>
+<h3><strong>Bu ilan artık yayında değildir.</strong></h3>
+<h4>Gelişmiş arama ve filtreleme özelliğini kullanarak aradığınız özelliklerde yeni bir ilan bulabilirsiniz.</h4>
+</center>}
+TX622={Sınırsız}
+TX623={Eklenen danışman bulunmuyor.}
+TX624={Yetki Sözleşmesi}
+TX625={Var,Yok}
+TX626={Eklenen İlanlar}
+TX627={ait toplam}
+TX628={adet ilan bulunmaktadır.}
+TX629={Danışmanlar}
+TX630={Portföy}
+TX631={Firma - Danışman Detayı}
+TX632={Danışmanı Öne Çıkar}
+TX633={Danışmanınızı öne çıkararak daha fazla kişiye ulaşın ve prestij kazanın.}
+TX634={Danışman Öne Çıkar (Anasayfada Yayınla)}
+TX635={Öne Çıkarma Ücretleri}
+TX636={Süre}
+TX637={Anasayfada yayınlanmıyor.}
+TX638={Öne Çıkarıldı. Anasayfada yayınlanıyor.}
+TX639={Başlangıç: }
+TX640={Sona erdi.}
+TX641={Bugün sona eriyor.}
+TX642={Kalan Gün: }
+TX643={Bitiş:}
+TX644={Hakkında;}
+TX645={<center><div style="margin-top:50px;margin-bottom:70px;text-align:center;" id="BasvrTamam">
+<i style="font-size:80px;color:green;" class="fa fa-check"></i>
+<h2 style="color:green;font-weight:bold;">Talebiniz Başarıyla Alındı.</h2>
+<br/>
+<h4>Talebiniz ile ilgili koşullar uygun olduğunda tarafınızla iletişim sağlayacağız.</h4>
+</div><center>}
+TX646={Liste olarak görüntüle}
+TX647={Kare olarak görüntüle}
+TX648={İlan Listesi}
+TX649={Danışmanlarımız}
+TX650={Sizin için çalışan birbirinden özel danışmanlarımız}
+TX651={<br><br><strong>Henüz hesabınız yok ise;</strong>}
+TX652={Firma Bilgileri}
+TX653={Evet,Hayır}
+TX654={(Yükleyeceğiniz görselin boyutları minimum <b>250 x 250 Px</b> olması önerilmektedir.)}
+TX655={<div class="alert alert-info" role="alert">Mevcut hesabınızla <strong>[aylik_ilan_limit] adet</strong> ilan ekleme hakkınız olup, her ilana <strong>[ilan_resim_limit] adet</strong> fotoğraf yükleyebilirsiniz. Eklediğiniz ilanlar <strong>[ilan_yayin_sure]</strong> süre ile yayında kalacaktır. Daha yüksek limit değerleri için lütfen <a href="uyelik-paketleri"  target="_blank"><strong>tıklayınız.</strong></a></div>}
+TX656={Ekleyeceğiniz danışmanlar, mevcut hesabınıza ait üyelik limitleri üzerinden işlem sağlayacaklardır. Danışmanınıza ait bilgileri aşağıdaki ilgili alanlara giriniz.}
+TX657={Mağaza Paketim}
+TX658={Hesabınızda bulunan *Danışman Öne Çıkarma Hediyesi*  kullanılacaktır. Onaylıyor musunuz?}
+TX659={<strong>Danışmana ait aktif ilan bulunmamaktadır.</strong>}
+TX660={<strong>Danışmana ait pasif ilan bulunmamaktadır.</strong>}
+TX661={Öne çıkarma için onay bekleniyor.}
+TX662={<center>
+<h1 style="font-size:70px;"><i class="fa fa-ban" aria-hidden="true"></i></h1>
+<h4><strong>Danışman oluşturma limitiniz dolmuştur.</strong></h4>
+<h5>Daha fazla danışman ekleyebilmek ve diğer tüm avantajlardan faydalanmak için <a target="_blank" href="uyelik-paketleri"><strong>tıklayınız.</strong></a></h5>
+</center>}
+TX663={İlanınız yayına alınmıştır.}
+TX664={İlanınız kısa süre içerisinde yayınlanacaktır.}
+TX665={Mağaza Sayfam}
+TX666={Tipi}
+TX667={Şekli}
+
+TX667={Tabloda herhangi bir veri mevcut değil}
+TX668={arasındaki kayıtlar gösteriliyor}
+TX669={Kayıt yok}
+TX670={kayıt içerisinden bulunan}
+TX671={Kayıt Göster}
+TX672={Yükleniyor...}
+TX673={İşleniyor...}
+TX674={Ara:} 
+TX675={Eşleşen kayıt bulunamadı.}
+TX676={İlk}
+TX677={Son}
+TX678={Sonraki}
+TX679={Önceki}
+TX680={artan sütun sıralamasını aktifleştir}
+TX681={azalan sütun soralamasını aktifleştir}
+TX682={İmar Durumu}
+
+
+NOLMUS={Bilinmiyor | Yayınlandı | Reddedildi | Pasifleşti | Silindi}
+
+PAY_NAME={İlan Doping}
+PAY_NAME2={Mağaza Paketi}
+PAY_NAME3={Danışman Öne Çıkarma}
+DONECIKAR_PBIRIMI={TL}
+UYELIKP_PBIRIMI={TL}
+DOPING_PBIRIMI={TL}
+DOPING1={<strong>Vitrin İlanları nda Göster</strong><br><span>(İlanınız anasayfadaki "Vitrin İlanları" alanında listelenir.)</span>}
+DOPING2={<strong>Özel İlanlar da Göster</strong><br><span>(İlanınız anasayfadaki "Özel İlanlar" alanında listelenir.)</span>}
+DOPING3={<strong>Öne Çıkan İlanlarda Göster</strong><br><span>(İlanınız anasayfadaki "Öne Çıkan İlanlar" alanında listelenir.)</span>}
+DOPING4={<strong>Üst Sıralarda Listele</strong><br><span>(İlanınız listelemelerde üst sırada görüntülenir.)</span>}
+DOPING5={<strong>Listelerde Renkli Zemin ve Bold Yazı</strong><br><span>(İlanınız Listelerde Renkli Zemin ve Bold Yazı stili ile görüntülenir.)</span>}
+
+EMLKTLP1={<option value="">Seçiniz</option>
+<option>Konut - Daire</option>
+<option>Konut - Villa</option>
+<option>Konut - Residans</option>
+<option>Konut - Bina</option>
+<option>Konut - Projeler</option>
+<option>Konut - Müstakil Ev</option>
+<option>Konut - Köşk & Konak</option>
+<option>Konut - Yalı & Yalı Dairesi</option>
+<option>Konut - Prefabrik Ev</option>
+<option>Konut - Kooperatif</option>
+<option>İş Yeri - Ofis & Büro</option>
+<option>İş Yeri - Apartman Dairesi</option>
+<option>İş Yeri - Çiftlik</option>
+<option>İş Yeri - Depo & Antrepo</option>
+<option>İş Yeri - Dükkan & Mağaza</option>
+<option>İş Yeri - Fabrika</option>
+<option>İş Yeri - İmalathane</option>
+<option>İş Yeri - İş Hanı Katı & Ofisi</option>
+<option>İş Yeri - Komple Bina</option>
+<option>İş Yeri - Otopark</option>
+<option>Arsa - Arazi - Arsa</option>
+<option>Arsa - Arazi - Tarla</option>
+<option>Arsa - Arazi - Meyve Bahçesi</option>
+<option>Turistik Tesis - Otel</option>
+<option>Turistik Tesis - Apart Otel</option>
+<option>Turistik Tesis - Butik Otel</option>
+<option>Turistik Tesis - Motel</option>
+<option>Turistik Tesis - Pansiyon</option>
+<option>Turistik Tesis - Kamp Yeri (Mocamp)</option>
+<option>Turistik Tesis - Tatil Köyü</option>
+<option>Turistik Tesis - Plaj</option>}
+
+EMLKTLP2={<option value="">Seçiniz</option>
+<option>Satın Almak İstiyorum</option>
+<option>Kiralık Arıyorum</option>
+<option>Günlük Kiralık Arıyorum</option>
+<option>Satmak İstiyorum </option>
+<option>Kiralamak İstiyorum</option>}
+
+FOOTER_TEXT={<strong> Bilgi Almak İçin, Arayın!&nbsp;&nbsp;[telefon] }
+PGN2={Önceki}
+PGN3={Sonraki}
+MS1={Lütfen tüm boş alanları doldurun.}
+MS2={Lütfen geçerli bir e-posta adresi yazın.}
+MS3={Az önce bir mesaj gönderdiniz, 15 dk sonra tekrar deneyin.}
+MS4={Mesajınız başarıyla gönderildi.}
+MS5={Mesaj Gönderilemedi, SMTP Ayarlarınızı Kontrol Ediniz.}
+MS6={Güvenlik Sorusunu Hatalı Girdiniz!}
+MS7={En kısa sürede tarafınıza dönüş yapacağız.}
+MS8={Az önce bir talep gönderdiniz, 2 dk sonra tekrar deneyin.}
+SORU={Türkiye'nin Başkenti?}
+CEVP={ankara}
+PARA_BIRIMI={TL,USD,EURO}
+IMAR_DURUM={Ada<+>A-Lejantlı<+>Bağ & Bahçe<+>Depo & Antrepo<+>Eğitim<+>Enerji Depolama<+>Konut<+>Muhtelif<+>Özel Kullanım<+>Sağlık<+>Sanayi<+>Sera<+>Sit Alanı<+>Spor Alanı<+>Tarla<+>Ticari<+>Ticari Konut<+>Toplu Konut<+>Turizm<+>Villa<+>Zeytinlik}
+KAKS_EMSAL={% 0.25 / 0.60<+>% 0.25 / 0.80<+>% 0.30<+>% 0.35 / 1.05<+>% 3<+>% 5<+>% 5 / 10<+>% 7,5 / 15<+>% 10 / 20<+>% 10 / 30<+>% 15<+>% 15 / 30<+>% 15 / 35<+>% 20<+>% 20 / 60<+>% 20 / 40<+>% 20 / 60<+>% 20 / 80<+>% 25 / 50<+>% 25 / 75<+>% 25 / 100<+>% 25 / 125<+>% 27 / 80<+>% 30 / 60<+>% 30 / 90<+>% 35 / 80<+>% 40<+>% 40 / 120<+>% 40 / 50<+>% 40 / 80<+>% 45<+>% 50<+>% 70<+>0,25<+>0,30<+>0,50<+>0.60<+>0.90<+>0.95<+>1,0<+>1,1<+>1,20<+>1,25<+>1,35<+>1,40<+>1,45<+>1,50<+>1,55<+>1,60<+>1,75<+>1,80<+>1.30<+>1.90<+>2,80<+>3,20<+>2,07<+>2,1<+>3,0<+>Belirtilmemiş}
+GABARI={3.50<+>6.50<+>9.50<+>11.50<+>12.50<+>14.50<+>15.50<+>18.50<+>21.50<+>24.50<+>27.50<+>30.50<+>Serbest<+>Belirtilmemiş}
+KIMDEN={Sahibinden,Emlak Ofisinden,İnşaat Firmasından,Bankadan}
+EMLK_DRM={Satılık<+>Kiralık<+>Günlük Kiralık<+>Satılık Talepler<+>Kiralık Talepler}
+EMLK_TIPI={Konut<+>İş Yeri<+>Arsa<+>Tarihi Mülk<+>Turistik İşletme<+>}
+KNT_TIPI={Daire<+>Yalı Dairesi<+>Residence <+>Villa<+>Villa Dubleks<+>Villa Tripleks<+>Villa Fourleks<+>Müstakil Ev<+>Köşk<+>Konak<+>Yalı<+>Taş Ev<+>Çiftlik<+>Çiftlik Evi<+>Dağ Evi<+>Köy Evi<+>Prefabrik Ev<+>Kooperatif<+>Turistik Otel<+>Turistik Apart Otel<+>Turistik Butik Otel<+>Turistik Motel<+>Turistik Pansiyon<+>Turistik Tatil Köyü<+>Turistik Kamp Yeri<+>Turistik Beach}
+KNT_TIPI2={Apartman Dairesi<+>Büro & Ofis<+>İşhanı Katı & Ofisi<+>Residence Katı & Ofis<+>Dükkan & Mağaza<+>AVM<+>Komple Bina<+>Han<+>Çiftlik<+>Yurt<+>Cafe & Bar<+>Restoran & Lokanta<+>Pastane & Fırın<+>Fabrika<+>Depo & Antrepo<+>Atölye<+>İmalathane<+>Sağlık Merkezi<+>Spor Tesisi<+>Akaryakıt İstasyonu<+>Otopark<+>Maden Ocağı<+> Enerji Santralleri HES-GES-RES}
+BULND_KAT={1<+>2<+>3<+>4<+>5<+>6<+>7<+>8<+>9<+>10<+>11<+>12<+>13<+>14<+>15 ve üzeri<+>Komple Bina<+>En Üst Kat<+>Çatı Dubleks<+>Zemin<+>Bahçe Katı<+>Giriş Katı<+>Yüksek Giriş<+>Villa Katı<+>Müstakil<+>Asma Kat<+>Çatı Katı<+>Çatı Dubleks<+>Teras Katı<+>Bodrum<+>Yarı Bodrum<+>Kot 1<+>Kot 2<+>Kot 3}
+ODA_SAYISI={1<+>1+1<+>2<+>2+1<+>3<+>3+1<+>4<+>4+1<+>4+2<+>5<+>5+1<+>5+2<+>6<+>6+2<+>7<+>7+3<+>8<+>8+3<+>8+4<+>9<+>9+3 Üzeri}
+ISITMA={Güneş Enerjisi<+>Isı Pompası<+>Klima<+>Kombi<+>Merkezi Sistem<+>Merkezi (Pay Ölçer)<+>Soba<+>Jeotermal Isıtma<+>Yerden Isıtma<+>Yok<+>Belirtilmemiş}
+AYLAR={Ocak,Şubat,Mart,Nisan,Mayıs,Haziran,Temmuz,Ağustos,Eylül,Ekim,Kasım,Aralık}
+GUNLER={Pazar,Pazartesi,Salı,Çarşamba,Perşembe,Cuma,Cumartesi}
+CEPHE={Batı<+>Doğu<+>Kuzey<+>Güney}
+IC_OZELLIKLER={ADSL<+>Ahşap Doğrama<+>Akıllı Ev<+>Alarm (Hırsız)<+>Alarm (Yangın)<+>Amerikan Mutfak<+>Ankastre Fırın<+>Balkon<+>Barbekü<+>Beyaz Eşya<+>Boyalı<+>Bulaşık Makinesi<+>Buzdolabı<+>Duvar Kağıdı<+>Duşakabin<+>Ebeveyn Banyosu<+>Fiber İnternet<+>Fırın<+>Giyinme Odası<+>Gömme Dolap<+>Görüntülü Diafon<+>Hilton Banyo<+>Intercom Sistemi<+>Isıcam<+>Jakuzi<+>Kartonpiyer<+>Kiler<+>Klima<+>Laminat Zemin<+>Marley<+>Mobilya<+>Mutfak (Ankastre)<+>Mutfak (Laminat)<+>Mutfak Doğalgazı<+>PVC Doğrama<+>Panjur<+>Parke Zemin<+>Sauna<+>Seramik Zemin<+>Set Üstü Ocak<+>Spot Aydınlatma<+>Teras<+>Vestiyer<+>Wi-Fi<+>Çamaşır Makinesi<+>Çamaşır Odası<+>Çelik Kapı<+>Şofben<+>Şömine}
+DIS_OZELLIKLER={Ana Yola Yakın<+>Denize Yakın<+>Havaalanına Yakın<+>Toplu Ulaşıma Yakın<+>Okula Yakın<+>Hastaneye Yakın<+>Çarşıya Yakın<+> Denize Sıfır<+>Deniz<+>Doğa<+>Boğaz<+>Göl<+>Asansör<+>Güvenlik<+>Hidrofor<+>Isı Yalıtım<+>Jeneratör<+>Kablo TV<+>Kapalı Garaj<+>Kapıcı<+>Kreş<+>Otopark<+>Oyun Parkı<+>Ses Yalıtımı<+>Siding<+>Spor Alanı<+>Su Deposu<+>Tenis Kortu<+>Uydu<+>Yangın Merdiveni<+>Yüzme Havuzu (Açık)<+>Yüzme Havuzu (Kapalı)}
+ALTYAPI_OZELLIKLER={Elektrik<+>Sanayi Elektriği<+>Su<+>Telefon<+>Doğalgaz<+>Kanalizasyon<+>Arıtma<+>Sondaj & Kuyu<+>Zemin Etüdü<+>Yolu Açılmış<+>Yolu Açılmamış<+>Yolu Yok}
+KONUM_OZELLIKLER={Ana Yola Yakın<+>Denize Sıfır<+>Denize Yakın<+>Havaalanına Yakın<+>Toplu Ulaşıma Yakın}
+GENEL_OZELLIKLER={İfrazlı<+>Parselli<+>Projeli<+>Köşe Parsel}
+MANZARA_OZELLIKLER={Deniz<+>Doğa<+>Boğaz<+>Göl}
+YAPI_DURUM={Sıfır<+>İkinci El}
+KUL_DURUM={Belirtilmemiş<+>Kiracı Oturuyor<+>Ev Sahibi Oturuyor<+>Boş} 
+UYELIK_TURLERI={Bireysel,Kurumsal,Danışman}
+BANKA_FAIZLER={Yapı Kredi=3.96, Garanti Bankası=3.49, Ziraat Bankası=3.49, INGBANK=2.79, Akbank=2.80, İş Bankası=2.87, QNB Finansbank=3.31}
+VIDEO_SUPPORT={Web tarayıcınız video oynatılmasını desteklemiyor. Lütfen farklı bir tarayıcıda deneyin.}
+VIDEO_MAX_BAYT={30999999}
+TAPU_DRM={Arsa<+>Hisseli Tapu<+>Müstakil Parsel<+>Kat İrtifakı<+>Kat Mülkiyeti<+>Tahsis<+>Zilliyet<+>Bilinmiyor}
